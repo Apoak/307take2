@@ -5,3 +5,4 @@ Inside the the packages folder containg the folders for the frontend and the bac
 The backend used express and mongodb.
 
 The frontend was developed using react.
+
